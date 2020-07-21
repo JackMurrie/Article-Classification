@@ -14,6 +14,7 @@ different, single topic. The topics are:
 8. SCIENCE AND TECHNOLOGY
 9. SHARE LISTINGS
 10. SPORTS
+
 As a Data Scientist, you are tasked to help these users find the most interesting articles
 according to their preferred topics. You have a training dataset containing about 9500 news
 articles, each assigned to one of the above topics. In addition, (as in real life situation) the
